@@ -1,4 +1,4 @@
-# My OLD Vibe Coded Personal Portfolio
+# My Vibe Coded Personal Portfolio
 
 Welcome to my personal **developer portfolio** built using modern web technologies. This website showcases my journey, skills, and the projects I've worked on — all crafted with care and passion for the web.
 
