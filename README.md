@@ -2,7 +2,6 @@
 
 Welcome to my personal **developer portfolio** built using modern web technologies. This website showcases my journey, skills, and the projects I've worked on — all crafted with care and passion for the web.
 
-Live Preview: [https://www.sahilsiddiqui.site]  
 ---
 
 ## 📂 Table of Contents
